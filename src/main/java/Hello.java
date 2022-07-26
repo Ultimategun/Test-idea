@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("hello java3");
         System.out.println("bug-fix");
         System.out.println("Easy change");
+        System.out.println("代码被修改了")
     }
 }
