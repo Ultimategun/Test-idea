@@ -4,6 +4,6 @@ public class Hello {
         System.out.println("a = " + a);
         System.out.println("hello java");
         System.out.println("hello java3");
-        System.out.println("bug-fix");
+        System.out.println("bug-fix-second");
     }
 }
