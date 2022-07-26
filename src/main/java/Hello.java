@@ -3,5 +3,6 @@ public class Hello {
         int a=10;
         System.out.println("a = " + a);
         System.out.println("hello java");
+        System.out.println("hello java3");
     }
 }
